@@ -1,5 +1,3 @@
-[WIP]
-
 Simple todo app built with FastAPI for study purposes.
 
 To run this project, create a virtual environment:
